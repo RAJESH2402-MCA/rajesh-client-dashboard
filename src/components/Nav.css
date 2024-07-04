@@ -1,0 +1,29 @@
+.nav {
+    background-color: hsl(0, 19%, 50%);
+    padding: 0.5rem;
+  }
+  
+  .nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .container{
+    display: flex; 
+        align-items: center;
+       
+  }
+  img{border-radius: 50%;
+  height: 50px;}
+  
+ 
+
+  .details3{
+    margin-top: 110px;
+    margin-left:-45px;
+    font-size: 14px;
+    
+  }

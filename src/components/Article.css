@@ -1,0 +1,21 @@
+
+.example {
+    padding: 1rem;
+    background-color: rgba(246, 252, 252, 0.923);
+    margin: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+    margin-left: 30%;
+    font-size: 6px;
+    border-radius: 8px;
+    width: 40%;
+    
+  }
+ 
+.button{
+  background-color: rgb(200, 236, 213);
+  margin-left: 30%;
+}
+.para{
+  margin-left: 100px;
+}

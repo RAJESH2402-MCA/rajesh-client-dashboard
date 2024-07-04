@@ -1,0 +1,23 @@
+.App {
+    font-family: Arial, sans-serif;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensures footer sticks to bottom */
+  }
+  .main-content {
+    display: flex;
+    flex: 1; /* Takes remaining space */
+  }
+  
+  .header{
+    width: 1000px;
+    margin-left: 40%;
+    padding: -10px;
+  }
+ .article{
+  background-color: rgb(241, 241, 242);
+  margin-bottom: 100px;
+  width: 120%;
+ }
